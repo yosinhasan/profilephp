@@ -1,0 +1,70 @@
+body {
+    background-color: #e8e8ee;
+}
+
+header nav {
+    background-color: #204d74;
+    border-color: #122b40;
+}
+header a {
+    color: #fff;
+    font: arial, sans-serif;
+    font-weight: bold;
+}
+header a.navbar-brand:hover {
+    color: #ddd;
+    font: arial, sans-serif;
+    font-weight: bold;
+}
+
+.form {
+    width:600px;
+    
+    margin:15% auto;
+    
+}
+.form2 {
+    width:600px;
+
+    margin:5% auto;
+    
+}
+.profile {
+    width:800px;
+    margin: 5% auto;
+    background: #ccc;
+}
+.error {
+    background: #111;
+    padding: 40px;
+}
+.error p {
+    padding: 5px;
+}
+img {
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+}
+.inputError {
+    border:2px solid #f00;
+}
+.emphasize {
+    color: #f00;
+    font: arial,sans-serif;
+    font-weight: bold;
+}
+.inputSuccess {
+    border:2px solid #0d0;
+}
+.invite {
+    width: 400px;
+    margin:0 auto;
+    background-color: #f6f6f6;
+}
+.users {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f6f6f6;
+}
+
